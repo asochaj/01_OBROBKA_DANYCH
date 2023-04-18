@@ -1,2 +1,2 @@
 # 01_OBROBKA_DANYCH
-Skrypty wykorzystywane do obróbki danych
+Scripts used for data preprocessing.
